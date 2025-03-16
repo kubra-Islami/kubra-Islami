@@ -63,4 +63,4 @@
 🔹 **[Portfolio Website](https://github.com/KobraEslami/portfolio)** 🌐 – My personal portfolio showcasing my skills and projects.  
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubra-islami/)  [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kobraeslami.01.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubra-islami/)  [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kubra.islami.00.email@example.com)  
