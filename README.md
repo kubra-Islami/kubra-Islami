@@ -1,5 +1,5 @@
 # 💫 About Me  
-- 👋 Hi, I'm **Kobra Eslami**!  
+- 👋 Hi, I'm **Kubra Islami**!  
 - 💻 A passionate **Full-Stack Developer** skilled in **React.js, Node.js, and modern web technologies**.  
 - 🎨 I love building **responsive and user-friendly applications**.  
 - 🚀 Always learning and improving my skills to stay ahead in web development.  
