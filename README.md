@@ -46,22 +46,15 @@
 </div>
 
 </td></tr></table>
- 
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kubra-islami&show_icons=true&count_private=true&border=true" align="center" /></div>  
-
+## 📊 GitHub Stats  
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=kubra-islami&show_icons=true&count_private=true&border=true" align="center" /></div>  
 <br/>  
 
-
-## 🏆 Featured Projects  
-🔹 **[Healthy Food Project](https://github.com/kubra-Islami/healthy-food)** 🍎 – A modern, user-friendly web application for healthy meal planning.  
-🔹 **[Admin Panel (Next.js)](https://github.com/kubra-Islami/admin-panel)** 🛠️ – A full-featured admin dashboard with Next.js & TypeScript.  
-🔹 **[Portfolio Website](https://github.com/kubra-Islami/portfolio)** 🌐 – My personal portfolio showcasing my skills and projects.  
-🔹 **[Task Manager](https://github.com/kubra-Islami/task-manager)** 📌 – Task Manager application with React.js & Typescript
 
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubra-islami/)  [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kubra.islami.00.email@example.com)  
