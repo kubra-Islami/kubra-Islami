@@ -45,15 +45,11 @@
 
 </div>
 
-</td></tr></table>
-
-<br/>  
-
-
-## 📊 GitHub Stats  
-<div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubra-islami)](https://github.com/kubra-islami/github-readme-stats)
-<br/>  
+</td></tr>
+</table>
+ 
+<img alt="stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Kubra-Islami&show_icons=true" />  
+<img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubra-Islami&layout=compact" />  
 
 
 ## 📬 Connect with Me  
