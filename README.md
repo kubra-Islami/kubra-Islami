@@ -47,9 +47,11 @@
 
 </td></tr>
 </table>
+ <div align="center">
+  <img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kubra-Islami&show_icons=true" />  
+  <img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubra-Islami&layout=compact" /> 
+ </div>
  
-<img alt="stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Kubra-Islami&show_icons=true" />  
-<img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubra-Islami&layout=compact" />  
 
 
 ## 📬 Connect with Me  
