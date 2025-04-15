@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kubra-islami&show_icons=true&count_private=true&border=true" align="center" /></div>  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubra-islami)](https://github.com/kubra-islami/github-readme-stats)
 <br/>  
 
 
