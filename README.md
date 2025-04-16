@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#5C6BC0;">Kobra Eslami</span></h1>
+<p align="center">
+  <img src="https://your-custom-image-url" alt="Hi, I'm Kubra Islami" />
+</p>
 
 <h3 align="center">Full Stack Developer | Passionate about building interactive UIs and robust backends</h3>
-
-<p align="center">
-  <a href="https://github.com/Kubra-Islami">
-    <img src="https://komarev.com/ghpvc/?username=Kubra-Islami&style=flat-square&color=blue" alt="profile views" />
-  </a>
-</p>
 
 ---
 
@@ -24,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p >
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,next,nodejs,mongodb,mysql,express,git,redux,postman,postgresql,tailwindcss,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,next,nodejs,mongodb,mysql,express,git,redux,postman,postgresql,tailwindcss,bootstrap,figma" width="100%"/>
 </p>
 
 ---
