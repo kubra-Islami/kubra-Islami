@@ -8,10 +8,14 @@
 
 ### 🧑‍💻 About Me
 
-- 👋 I’m  — a web developer passionate about responsive, high-impact websites  
-- 🚀 Currently diving deep into the **MERN stack** to build dynamic and scalable apps  
-- 💡 I love solving problems with creative, user-focused solutions  
-- 📚 Always learning and staying up-to-date with the latest in web development  
+- 👋 I’m  — a web developer passionate about responsive, high-impact websites
+ 
+- 🚀 Currently diving deep into the **MERN stack** to build dynamic and scalable apps
+ 
+- 💡 I love solving problems with creative, user-focused solutions
+ 
+- 📚 Always learning and staying up-to-date with the latest in web development
+
 - 🤝 Open to collaborations, new opportunities, and connecting with like-minded devs
 
 
