@@ -29,7 +29,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kubra-Islami&show_icons=true&theme=default" align="left" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kubra-Islami&show_icons=true&theme=default" align="left" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubra-Islami&layout=compact&theme=default" align="left" width="47%" />
 
 
