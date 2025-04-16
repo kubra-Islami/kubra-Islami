@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-custom-image-url" alt="Hi, I'm Kubra Islami" />
+  <img src="assets/my-img.png" alt="Hi, I'm Kubra Islami" />
 </p>
 
 <h3 align="center">Full Stack Developer | Passionate about building interactive UIs and robust backends</h3>
