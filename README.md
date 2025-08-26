@@ -25,7 +25,7 @@
 <!--- postgresql ---> 
 
 <p >
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,next,nodejs,mongodb,mysql,expressjs,git,redux,postman,tailwindcss,bootstrap,figma" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,nodejs,mysql,postgresql,expressjs,git,redux,postman,tailwindcss,bootstrap,figma" width="100%"/>
 </p>
 
 ---
