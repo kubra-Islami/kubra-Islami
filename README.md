@@ -8,15 +8,16 @@
 
 ## 🧑‍💻 About Me
 
-- 👋 I’m  — a web developer passionate about responsive, high-impact websites
- 
-- 🚀 Currently diving deep into the **MERN stack** to build dynamic and scalable apps
- 
-- 💡 I love solving problems with creative, user-focused solutions
- 
-- 📚 Always learning and staying up-to-date with the latest in web development
+* 👋 I’m — a web developer passionate about creating responsive, high-impact websites
 
-- 🤝 Open to collaborations, new opportunities, and connecting with like-minded devs
+* 🚀 Currently focusing on **Next.js** and **React.js** for the frontend, and **Node.js with PostgreSQL** for the backend to build dynamic and scalable apps
+
+* 💡 I love solving problems with creative, user-focused solutions
+
+* 📚 Always learning and staying up-to-date with the latest in web development
+
+* 🤝 Open to collaborations, new opportunities, and connecting with like-minded devs
+
 
 
 ---
