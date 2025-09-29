@@ -36,4 +36,4 @@
 
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubra-islami/)  [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kubra.islami.00.email@example.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/IslamiKubra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubra-islami/)  [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://portfolio-six-rho-u6x6fggw4v.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kubra.islami.00.email@example.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/IslamiKubra)
