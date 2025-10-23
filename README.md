@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-* 👋 I’m — a web developer passionate about creating responsive, high-impact websites
+* 👋 I’m a web developer passionate about creating responsive, high-impact websites
 
 * 🚀 Currently focusing on **Next.js** and **React.js** for the frontend, and **Node.js with PostgreSQL** for the backend to build dynamic and scalable apps
 
